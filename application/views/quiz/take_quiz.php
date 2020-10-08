@@ -64,6 +64,7 @@
 			<div class="col-lg-12 inputDrawing">
 
 			</div>
+			<!-- test -->
 		</div>
 		<a class="fs-4x showWhenQuizStart cursor_pointer arrow_next" id="nextQuestion">
 			<i class="fa fa-angle-double-right"></i>
