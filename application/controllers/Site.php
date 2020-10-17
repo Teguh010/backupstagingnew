@@ -45,6 +45,31 @@ class Site extends CI_Controller {
 		$this->load->view('include/site_footer');
 
 	}
+	public function teguh() 
+	{
+	$this->load->view('view_teguh');
+	}
+
+	public function testhome() 
+	{
+	$this->load->view('view_testhome');
+	}
+	public function explore()
+	{
+		$this->load->view('view_explore');
+	}
+	public function pricing()
+	{
+		$this->load->view('view_pricing');
+	}
+	public function technology()
+	{
+		$this->load->view('view_technology');
+	}
+	public function divi()
+	{
+		$this->load->view('view_divi');
+	}
 
 
 	public function contactus()
